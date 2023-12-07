@@ -33,7 +33,7 @@ Saída: hello linguagem python - cursor: 10
 
 Entrada: Hello Linguagem Python
 Comandos: 9999lrO
-Saída: Hello Grupo BoticariO - cursor: 20
+Saída: Hello Linguagem PythonO - cursor: 20
 
 
 Entrada: Hello Linguagem Python
